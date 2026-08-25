@@ -1,0 +1,16 @@
+INSERT INTO categories_tags (tag_type, tag_value) VALUES
+    ('category', 'Tops'),
+    ('category', 'Bottoms'),
+    ('category', 'Outerwear'),
+    ('category', 'Footwear'),
+    ('category', 'Accessories'),
+    ('size', 'XS'),
+    ('size', 'S'),
+    ('size', 'M'),
+    ('size', 'L'),
+    ('size', 'XL'),
+    ('condition', 'New with tags'),
+    ('condition', 'Like new'),
+    ('condition', 'Good'),
+    ('condition', 'Fair'),
+    ('condition', 'Worn');
